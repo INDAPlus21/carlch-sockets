@@ -1,0 +1,6 @@
+Compile client with `gcc main.c`.<br />
+Run client with `./a.out 127.0.0.1 8080`.<br />
+
+Compile and run server with `go run main.go 8080`.<br />
+
+DM was almost incorperated but ran out of time due to other assignments and my incompetence. DO NOT WRITE `/msg` I WILL LITERALY CRY : I WILL LITERALY CRY :))
